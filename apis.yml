@@ -1,7 +1,28 @@
 aid: copperlane
 name: Copperlane
-description: Copperlane is a company surfaced as a portfolio company of y-combinator and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Copperlane is an AI-native mortgage loan origination platform founded in 2025
+  by Brianna Lin and Athan Zhang and backed by Y Combinator (W26 batch). Its AI
+  agent, Penny, behaves like a real loan officer: it guides borrowers through
+  intake, pulls and reads borrower documents, verifies loan eligibility in real
+  time, answers borrower questions live, and generates Letters of Explanation,
+  delivering cleaner files to human loan officers so they can focus on closing
+  loans instead of chasing paperwork. The San Francisco company raised a $4.1M
+  seed round to modernize a mortgage origination process that remains largely
+  manual. Copperlane is currently a demo-request business application and does
+  not publish a public developer API, SDK, or developer portal.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.copperlane.ai/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/copperlane/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +32,38 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Mortgage
+- Lending
+- Loan Origination
+- Financial Services
+- Fintech
+- Real Estate
+- Artificial Intelligence
+- Agents
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: Website
+  url: https://www.copperlane.ai/
+- type: About
+  url: https://www.copperlane.ai/about
+- type: Blog
+  url: https://www.copperlane.ai/blog
+- type: TermsOfService
+  url: https://www.copperlane.ai/terms
+- type: PrivacyPolicy
+  url: https://www.copperlane.ai/privacy
+- type: DomainSecurity
+  url: security/copperlane-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
