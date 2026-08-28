@@ -11,6 +11,17 @@ description: >-
   seed round to modernize a mortgage origination process that remains largely
   manual. Copperlane is currently a demo-request business application and does
   not publish a public developer API, SDK, or developer portal.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
