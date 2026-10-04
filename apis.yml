@@ -49,9 +49,9 @@ tags:
 - Mortgage
 - Lending
 - Loan Origination
-- Financial-Services
+- Financial Services
 - Fintech
-- Real-Estate
+- Real Estate
 - Artificial Intelligence
 - Agents
 tags_raw:
@@ -64,6 +64,8 @@ tags_raw:
 - Real Estate
 - Artificial Intelligence
 - Agents
+- Financial-Services
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
